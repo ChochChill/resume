@@ -2,7 +2,7 @@
 - company: Conga
   position: Software Engineer
   duration: Jun 2023 &mdash; Present
-  summary: Designed and implemented REST APIs using C# and Go supporting enterprise CPQ configuration workflows. Integrated Stripe payment gateway webhooks to track and update payment status within internal backend services. Built end-to-end APIs for a quote discussion/comment system enabling collaboration on pricing and product configurations. Diagnosed performance bottlenecks in CPQ configuration service logic and debugged production issues using logs and metrics dashboards (Prometheus/Grafana), improving response time by ~3&times;. Refactored legacy modules in C# to improve maintainability and reduce technical debt. Mentored junior developers on debugging practices and backend development.
+  summary: Designed and implemented REST APIs using C# supporting enterprise CPQ configuration workflows. Integrated Stripe payment gateway webhooks to track and update payment status within internal backend services. Built end-to-end APIs for a quote discussion/comment system enabling collaboration on pricing and product configurations. Diagnosed performance bottlenecks in CPQ configuration service logic and debugged production issues using logs and metrics dashboards (Prometheus/Grafana), improving response time by ~3&times;. Refactored legacy modules in C# to improve maintainability and reduce technical debt. Mentored junior developers on debugging practices and backend development.
 
 - company: Conga
   position: Associate Software Engineer
