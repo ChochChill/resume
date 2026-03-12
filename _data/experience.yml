@@ -1,0 +1,15 @@
+# Jobs
+- company: Conga
+  position: Software Engineer
+  duration: Jun 2023 &mdash; Present
+  summary: Designed and implemented REST APIs supporting enterprise CPQ configuration workflows. Integrated Stripe payment gateway webhooks to track and update payment status within internal backend services. Built end-to-end APIs for a quote discussion/comment system enabling collaboration on pricing and product configurations. Diagnosed performance bottlenecks in CPQ configuration service logic and debugged production issues using logs and metrics dashboards (Prometheus/Grafana), improving response time by ~3&times;. Refactored legacy modules to improve maintainability and reduce technical debt. Mentored junior developers on debugging practices and backend development.
+
+- company: Conga
+  position: Associate Software Engineer
+  duration: Jun 2022 &mdash; Jun 2023
+  summary: Diagnosed and resolved backend defects improving application stability and reliability. Developed backend features supporting enterprise CPQ configuration workflows. Assisted performance analysis and tuning of backend services. Participated in code reviews and collaborative Git-based development workflows.
+
+- company: Conga
+  position: Backend Developer Intern
+  duration: Jan 2022 &mdash; Jun 2022
+  summary: Built backend features using C# and .NET within an enterprise CPQ platform. Assisted debugging production issues and resolving medium-complexity defects. Worked within team development workflows including Git and peer code reviews.

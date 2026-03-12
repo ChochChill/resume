@@ -1,0 +1,15 @@
+# Skills
+- skill: Languages
+  description: Go, C#, Python
+
+- skill: Backend
+  description: APIs, REST APIs, Webhooks, Microservices, Asynchronous Processing
+
+- skill: Concurrency
+  description: Goroutines, Channels
+
+- skill: Databases
+  description: PostgreSQL, MySQL, MongoDB
+
+- skill: Tools
+  description: Git, Linux, Docker, Prometheus, Grafana, GitHub Copilot (agent mode), Gemini CLI, Agile

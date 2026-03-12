@@ -1,0 +1,5 @@
+# Projects
+- project: Concurrent Job Processing API
+  role: Developer
+  duration: 2024
+  description: Built a concurrent REST API implementing an asynchronous worker pool using goroutines and buffered channels. Designed a persistent job queue (SQLite) with APIs for job submission, status tracking, cancellation, and graceful shutdown using clean Go project architecture.
