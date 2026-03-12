@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "CHAITHANYA KUMAR N R"
-resume_title:                   "Backend Engineer | Go, APIs, Distributed Systems"
+resume_title:                   "Backend Engineer | Go, C#, APIs, Distributed Systems"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "chaithanya7kumarnr@gmail.com"
